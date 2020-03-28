@@ -1,0 +1,5 @@
+Frequency map function that 
+out of a given string Text  and an integer k, 
+will find the most occured k-mers.
+
+using dictionaries in Python
