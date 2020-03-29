@@ -37,5 +37,5 @@ ori="ATCAATGATCAACGTAAGCTTCTAAGCATGATCAAGGTGCTCACACAGTTTATCCACAACCTGAGTGGATGACAT
 #used for testing our function
 simple_text = "AGAGATCACGTCAAGATCAAGAGATCACGATCA"
 
-most_frequent_kmers = frequencyMap(ori, 5)
+most_frequent_kmers = frequencyMap(ori, 9)
 print(most_frequent_kmers)
